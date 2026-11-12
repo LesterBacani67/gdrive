@@ -1,0 +1,22 @@
+this is what i want in the tickets: ticket A is the ticket of the user it has no status, reviewer, remarks, admin need to click the edit/pencil icon to edit the ticket when the admin edited the ticket then submit the ticket A will remain in display and not edited, then the edited by admin will become ticket B it has now status reviewer etc,then if the admin edited the ticket B then submit it will became ticket C the the ticket B is uneditable again.
+
+Options for status: In Queue, InProgress - PBO, InProgress - LFC, InProgress - SP
+Office name starts with municipality there will be automatically subfolder named Annual Budget, Supplemental Budget and AIP&SAIP folder in their Uploads Tab/Folder
+in Submit Ticket the dropdown(Annual and Supplemental Budget) is the folder where it will be going inside the uploads so when they clicked the file link they will be directed to uploads - Annual or Supplemental Budget depends on what the user selected
+password
+remember me? in the log in page
+add a divider below the messages and put a change password tab for the users
+change password for users: 3 input; enter old password, new password and confirm password
+change password for users- with checklist: atleast 1 symbol, 1 Capital Letter then one, atleast 1 number, and the password is atleast 8 characters long, the user cannot continue to confirm password if the checklist are not complete
+pop up
+
+file settings in admin side
+ only admin can add folders to offices in uploads and shared folders
+
+file settings in user side
+users are only allowed to upload in folders inside the uploads tab
+they cannot a folders
+
+multi uploads
+multi upload from file manager
+
